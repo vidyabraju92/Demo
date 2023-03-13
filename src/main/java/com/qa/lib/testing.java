@@ -6,5 +6,10 @@ public class testing {
 		
 		System.out.println("testing the job");
 	}
+	
+	public void loing() {
+		
+		System.out.println("login page has been modified");
+	}
 
 }
